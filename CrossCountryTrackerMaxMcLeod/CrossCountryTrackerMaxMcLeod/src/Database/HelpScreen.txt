@@ -1,0 +1,12 @@
+This is the Open Screen of the Arman Cross Country Tracker. Press "Open" button to continue, "Exit" if you wish to leave the program.
+This is the Student Screen. Press "Create New" to create a new student, "Search" to search for a student, "Back" to go back to the choices screen.
+This is the Student Details Screen. Press "Edit" to edit student details, "Back" to go back to the Students screen.
+This is the Add Student Screen. Press "Create" to save and apply the inputted values, "Cancel" to go back to the Students Screen.
+This is the Student Edit Screen. Press "Save" to save the inputted details, "Cancel" to go back to the Student Details screen.
+This is the Choice Screen. Press "Students" to access the students screen, "Races" to access the races screen, "Exit" if you wish to leave the program.
+This is the Races Screen. Press "Create New" to create a new Race, "Search" to search for a Race, "Back" to go back to the choices screen.
+This is the Edit Time Screen. Press "Save" to save the inputted details, "Cancel" to go back to the Time Screen.
+This is the Add Time Screen. Press "Search" to search for students, "Save" to save the inputted data, "Cancel" to go back to Race Detail Screen.
+This is the Edit Race Screen. Press "Save" to save and apply the inputted values, "Cancel" to go back to the Race Details Screen.
+This is the Add Race Screen. Press "Save" to save and apply the inputted values, "Cancel" to go back to the Races Screen.
+This is the Race Details Screen. Press "Edit Race" to edit race details, "Add Time" to add a time, "Cancel" to go back to the Races Screen.
